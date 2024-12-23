@@ -1,5 +1,8 @@
  # Israel To World Salary Conversion Utility (Streamlit)
 
+ [![Use on Streamlit Cloud](https://img.shields.io/badge/Streamlit-Use%20on%20Streamlit%20Cloud-orange?style=for-the-badge&logo=streamlit)](https://israel-salary-converter.streamlit.app/)
+
+
 ![alt text](screenshots/v2/1.png)
 
 ![alt text](screenshots/v2/2.png)
